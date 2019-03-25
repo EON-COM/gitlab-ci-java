@@ -1,6 +1,8 @@
 # CI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?color=blue)](https://opensource.org/licenses/MIT)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/EON-COM/gitlab-ci-java.svg?color=blue)
+[![](https://images.microbadger.com/badges/image/eoncom/gitlab-ci-java.svg)](https://microbadger.com/images/eoncom/gitlab-ci-java "Get your own image badge on microbadger.com")
 
 # Supported tags and respective `Dockerfile` links
 
@@ -26,17 +28,12 @@
 
 # What is gitlab-ci-java?
 
-List of docker images used in EOM-COM gitlab-ci pipeline
-
-## Java docker ci image
-
-> This is the image that the internal gitlab-ci uses to build a java service. 
+This is the image that the internal gitlab-ci uses to build a java service. 
 
 ### Tools installed inside the image
 
 - gradle
 - openjdk:11.0
-
 
 # License
 

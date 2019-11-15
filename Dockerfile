@@ -1,4 +1,4 @@
-FROM openjdk:11.0.5-jre
+FROM openjdk:11.0.5-jdk
 LABEL maintainer="hoenirvili <hoenirvili@gmail.com>" \
     version="0.3" \
     purpose=ci

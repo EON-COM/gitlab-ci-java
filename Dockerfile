@@ -1,4 +1,4 @@
-FROM openjdk:11.0-jre-slim
+FROM openjdk:11.05-jre-slim
 LABEL maintainer="hoenirvili <hoenirvili@gmail.com>" \
     version="0.1" \
     purpose=ci

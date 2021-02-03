@@ -6,7 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-[`gitlab-ci-java:0.1` `gitlab-ci-java:latest` (*Dockerfile*)](https://github.com/EON-COM/gitlab-ci-java/blob/master/Dockerfile)
+[`gitlab-ci-java:0.5` `gitlab-ci-java:latest` (*Dockerfile*)](https://github.com/EON-COM/gitlab-ci-java/blob/master/Dockerfile)
 
 
 # Quick reference
@@ -34,6 +34,7 @@ This is the image that the internal gitlab-ci uses to build a java service.
 
 - gradle
 - openjdk:11.0
+- bazel 4.0.0
 
 # License
 

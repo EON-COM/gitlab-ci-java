@@ -6,7 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-[`gitlab-ci-java:0.5` `gitlab-ci-java:latest` (*Dockerfile*)](https://github.com/EON-COM/gitlab-ci-java/blob/master/Dockerfile)
+[`gitlab-ci-java:0.6` `gitlab-ci-java:latest` (*Dockerfile*)](https://github.com/EON-COM/gitlab-ci-java/blob/master/Dockerfile)
 
 
 # Quick reference
